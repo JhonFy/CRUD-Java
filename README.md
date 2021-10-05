@@ -4,7 +4,7 @@
 -El proyecto contiene una carpeta nombrada CDBJ, con los jframe correspondientes.
 
 🚀 Instrucciones 
--Estas instrucciones le permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
+-Estas instrucciones le permitirán obtener una copia del proyecto en funcionamiento en su máquina local para propósitos de desarrollo y pruebas.
 -Descargue el archivo .rar
 -Copie el archivo Developer en la carpeta de almacenamiento Netbeans por defecto.
 -Es necesario crear una base de datos, segun la imagen.
